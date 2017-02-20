@@ -2,12 +2,15 @@
 This folder holds the illustrations and results of the pistol detector developed by: Roberto Olmos, Siham Tabik, Francisco Herrera
 
 
-The complete description of the detection model can be found in this article:
+1. The complete description of the detection model can be found in this article:
 
 Automatic Handgun Detection Alarm in Videos Using Deep Learning. Roberto Olmos, Siham Tabik, Francisco Herrera.	arXiv:1702.05147 (2017). available at: http://arxiv.org/abs/1702.05147
 
 
-The videos with the detections (bounding boxes) are named as video-1, -2, -3,-4, -5, -6 and 7.  
+2. File "Illustrations_Figures.pdf" shows five Figures, Figure 1 and 2 illustrates 6 images from database-2 and database-5. Figure 4 and 5 shows the results of the detection model.
 
 
-The thirty scenes used used in the expriments are zipped in independent files labeled from 1 to 13.
+3. The videos with the detections (bounding boxes) are named as video-1, -2, -3,-4, -5, -6 and 7.  
+
+
+4. The thirty scenes used in the expriments are zipped in independent files labeled from 1 to 13.
