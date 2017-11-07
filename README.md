@@ -14,4 +14,10 @@ Neurocomputing. DOI: https://doi.org/10.1016/j.neucom.2017.05.012.
 
 4. The thirty scenes used in the expriments are zipped in independent files labeled from 1 to 13.
 
-5. The first dataset is included in this folder. 
+5. The first dataset is included in this folder:
+TrainingSet:
+https://www.dropbox.com/s/q23bb4xdp1pn69o/BK4.zip?dl=0
+TestSet:
+https://www.dropbox.com/s/opr8my5avr3zzfd/Testk.tar.gz?dl=0
+
+
