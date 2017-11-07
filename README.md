@@ -3,8 +3,7 @@ This folder provides the first data-set, illustrations and results of the pistol
 
 1. The complete description of the detection model can be found in this paper:
 
-Automatic Handgun Detection Alarm in Videos Using Deep Learning
-R Olmos, S Tabik, F Herrera
+Automatic Handgun Detection Alarm in Videos Using Deep Learning. R Olmos, S Tabik, F Herrera.
 Neurocomputing. DOI: https://doi.org/10.1016/j.neucom.2017.05.012.
 
 2. File "ComplementaryMaterial.pdf" shows five Figures, Figure 1 and 2 illustrates 6 images from database-2 and database-5. Figure 3, 4 and 5 show some results of the detection model.
