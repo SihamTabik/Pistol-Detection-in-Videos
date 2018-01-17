@@ -3,7 +3,7 @@ Content:
 1. The datasets used in this work are available through this Link:
 http://sci2s.ugr.es/weapons-detection
 
-2. The complete descriptis workthe detection model can be found in this paper:
+2. The complete description workthe detection model can be found in this paper:
 
 Automatic Handgun Detection Alarm in Videos Using Deep Learning. 
 R Olmos, S Tabik, F Herrera.
