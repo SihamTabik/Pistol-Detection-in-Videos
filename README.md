@@ -2,18 +2,18 @@ Content:
 
 1. The datasets used in this work are available through this Link:
 
-http://sci2s.ugr.es/weapons-detection
+  http://sci2s.ugr.es/weapons-detection
 
 2. The complete description workthe detection model can be found in this paper:
 
 
-Automatic Handgun Detection Alarm in Videos Using Deep Learning. 
+  Automatic Handgun Detection Alarm in Videos Using Deep Learning. 
 
 
-R Olmos, S Tabik, F Herrera.
+  R Olmos, S Tabik, F Herrera.
 
 
-Neurocomputing, 275, 66-72, 2012
+  Neurocomputing, 275, 66-72, 2012
 
 3. File "ComplementaryMaterial.pdf" shows five Figures, Figure 1 and 2 illustrates 6 images from database-2 and database-5. Figure 3, 4 and 5 show some results of the detection model.
 
