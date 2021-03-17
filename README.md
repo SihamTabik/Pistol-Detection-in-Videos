@@ -17,4 +17,4 @@ Content:
 
 5. The thirty scenes used in the expriments are zipped in independent files labeled from 1 to 13.
 
-6. HandgunTrajectory  is a dataset for training models to predict the trajectory of handguns in vidos.
+6. HandgunTrajectory  is a dataset for training models to predict the trajectory of handguns in vidos. (Comming soon)
